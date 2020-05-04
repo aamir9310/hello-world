@@ -1,4 +1,2 @@
 Hi Aamir
-Welcome 2 IBM
-Happy coding from GIT CLI
-Adding text from GitHub
+Welcome coding
